@@ -36,4 +36,3 @@ This code is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 For more details, see the full license [here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-For any questions regarding usage or permissions, please contact [Student's Name] at [Email Address].
